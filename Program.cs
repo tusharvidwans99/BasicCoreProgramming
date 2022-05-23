@@ -7,10 +7,13 @@
             //LeapYear.isLeapYear();
             //SumAndAverage.sumavg();
             //OddEven.isOddorEven();
-            Flipcoin.FliptheCoin();
+            //Flipcoin.FliptheCoin();
             //Powerof2.powerof2();
             //HarmonicSeries.Harmonic();
-           // PrimeFactors.checkPrimeFactors();
+            // PrimeFactors.checkPrimeFactors();
+            //isPalindrome.checkPalindrome();
+            //printingPattern.createPattern();
+            Fibonacci.Fibo();
         }
     }
 }
